@@ -8,6 +8,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/cagnotte_maman/" element={<Home />} />
+        <Route path="*" element={<div>Not Found : cliquez <a href='https://fardellatimothe.github.io/cagnotte_maman/'>ici</a> pour accéder à la cagnotte</div>} />
       </Routes>
     </Router>
   );
