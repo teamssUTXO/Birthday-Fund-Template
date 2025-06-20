@@ -28,7 +28,7 @@ function Home() {
       </div>
       <div className="columns">
         <div className="column-left">
-          <img src="../../public/img/5d95c2c803819_airbus.jpg" alt="Voyage" />
+          <img src="/img/5d95c2c803819_airbus.jpg" alt="Voyage" />
           <p>
             Pour son anniversaire, nous avons eu envie d’offrir à Brigitte un beau cadeau : un billet d’avion pour la Nouvelle-Calédonie (~2000 €).<br />
             Pour nous aider à réaliser cette surprise, j’ai mis en place une cagnotte en ligne pour celles et ceux qui préfèrent participer par virement.<br />
