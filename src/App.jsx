@@ -7,7 +7,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="*" element={<div style={{ textAlign: 'center' }}>Page non trouvée ❓</div>} />
+        <Route path="/cagnotte_maman/" element={<Home />} />
       </Routes>
     </Router>
   );

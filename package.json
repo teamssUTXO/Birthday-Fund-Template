@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://fardellatimothe.github.io/cagnotte-react",
+  "homepage": "https://fardellatimothe.github.io/cagnotte_maman",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
