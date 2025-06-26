@@ -26,8 +26,8 @@ function Home() {
 
         <div className="column-right">
           <div className="contribution-box">
-            <p><strong>Montant total de la cagnotte :</strong> 0€</p>
-            <p><strong>Nombre de participants :</strong> 0</p>
+            <p><strong>Montant total de la cagnotte :</strong> 300€</p>
+            <p><strong>Nombre de participants :</strong> 6</p>
             
             <div className="divider"></div>
             
