@@ -7,8 +7,8 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/cagnotte/" element={<Home />} />
-        <Route path="*" element={<div>Not Found : cliquez <a href='https://teamssutxo.github.io/cagnotte/'>ici</a> pour accéder à la cagnotte</div>} />
+        <Route path="/Birthday-Fund-Template/" element={<Home />} />
+        <Route path="*" element={<div>Not Found : cliquez <a href='https://teamssutxo.github.io/Birthday-Fund-Template/'>ici</a> pour accéder à la cagnotte</div>} />
       </Routes>
     </Router>
   );

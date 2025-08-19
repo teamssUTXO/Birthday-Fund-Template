@@ -1,9 +1,9 @@
 {
-  "name": "cagnotte",
+  "name": "birthdayfundtemplate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://teamssutxo.github.io/cagnotte",
+  "homepage": "https://teamssutxo.github.io/Birthday-Fund-Template/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

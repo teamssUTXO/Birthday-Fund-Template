@@ -14,12 +14,18 @@ This application is a front-end project that presents an example of a participat
 - Vite
 - Git / GitHub
 
+**Mini Features :**
+
+- Animated Background with mouse
+- LightMode / DarkMode
+- Trad : EN / FR
+
 ## Don't contribute
 
 Please do not contribute to the fund, as it is not intended for that purpose, even though the “contribute” button is linked to a PayPal fund.
 
 ## License
 
-No LICENSE file in this repository.
+No LICENSE for this repository.
 
 ---
