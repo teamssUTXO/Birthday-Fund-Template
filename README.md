@@ -1,6 +1,6 @@
 # React web application for donations/crowdfunding
 
-This application is a front-end project that presents an example of a participatory online money pot. The current application is v2, but v1 was actually used to raise around €400 for a birthday.
+This application is a front-end project that presents an example of a participatory online money pot. The current application is v2, but v1 was used to raise around €400 for a birthday.
 
 ## Technologies used
 
