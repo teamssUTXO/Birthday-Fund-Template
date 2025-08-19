@@ -4,12 +4,12 @@ This application is a front-end project that presents an example of a participat
 
 ## Technologies used
 
-Core :
+**Core :**
 
 - React
 - Modern CSS / Modern UX / UI
 
-Developer tooling :
+**Developer tooling :**
 
 - Vite
 - Git / GitHub
